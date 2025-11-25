@@ -4,6 +4,11 @@
 💡 Passionate about web development, clean UI/UX and modern tooling  
 🚀 Always learning, creating, and working on new ideas
 
+🔒 Implemented DTLS in constrained networks as my bachelor project <br />
+📘 Bachelor thesis: "Analysis and Optimization of DTLS in Constrained Networks" 
+
+🎯 Goal 2025: Complete my Java course and release my first major fullstack project
+
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/gamingpions) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mail@gpscripts.dev) 
