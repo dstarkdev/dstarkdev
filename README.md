@@ -7,7 +7,7 @@
 🔒 Implemented DTLS in constrained networks as my bachelor project <br />
 📘 Bachelor thesis: "Analysis and Optimization of DTLS in Constrained Networks" 
 
-🎯 Goal 2025: Complete my Java course and release my first major fullstack project
+🎯 Goal Q1 2026: Complete my Java course and release my first major fullstack project
 
 
 ## 🌐 Socials:
